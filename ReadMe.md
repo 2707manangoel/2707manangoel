@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 💫 About Me<br><br>🔭 I'm currently working on **AI-powered projects, Agentic AI workflows, and Python backend development.<br><br>👯 I'm looking to collaborate on **AI/ML, Web Development, Python, and Open-Source Projects.<br><br>🤝 I'm looking for help with **Advanced AI/ML, Backend Development, and Building Real-World AI Applications.<br><br>🌱 I'm currently learning **Agentic AI, Machine Learning, Python, Cybersecurity, and Full-Stack Development.<br><br>💬 Ask me about **Python, C++, SQL, HTML, CSS, JavaScript, Git & GitHub, and AI Projects.<br><br>⚡ Fun fact: **I believe in learning by building — turning every new concept into a practical project! 🚀
+## <br><br>🔭 I'm currently working on AI-powered projects, Agentic AI workflows, and Python backend development.<br><br>👯 I'm looking to collaborate on AI/ML, Web Development, Python, and Open-Source Projects.<br><br>🤝 I'm looking for help with Advanced AI/ML, Backend Development, and Building Real-World AI Applications.<br><br>🌱 I'm currently learning Agentic AI, Machine Learning, Python, Cybersecurity, and Full-Stack Development.<br><br>💬 Ask me about Python, C++, SQL, HTML, CSS, JavaScript, Git & GitHub, and AI Projects.<br><br>⚡ Fun fact: I believe in learning by building — turning every new concept into a practical project! 🚀
 
 
 ## 🌐 Socials:
